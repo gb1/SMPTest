@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/Common-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/Connectivity-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/CoreServices-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/DataVaultLib-2.3.3.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/Parser-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/perflib-1.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/Request-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/gb/android/SMP/sap-e2etrace-2.3.3.13.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
